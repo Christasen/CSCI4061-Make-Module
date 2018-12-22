@@ -2,7 +2,7 @@
 /* CSci4061 F2018 Assignment 1
 * login: CSE KELLER 4250 LAB MACHINES
 * date: 10/03/2018
-* name: Guangyu Yan, Huilin Zhang, Ziqian Qiu 
+* name: Guangyu Yan, Huilin Zhang, Ziqian Qiu
 * yanxx630, zhan5992, qiuxx283*/
 
 
@@ -10,9 +10,9 @@ Who did what on the program
 We did all the algorithms and most of our coding work during our meeting
 
 * Guangyu Yan
-    *Guangyu finished the warm up,Readme file and contributes ideas of the whole framework algorithms design.
+    *Guangyu finished the whole program design, part of the coding work and contributes ideas of the whole framework algorithms design.
 
-* Ziqian Qiu 
+* Ziqian Qiu
     *Ziqian finished the program debugging and testing of our program. She also did the comment of the projects
 
 
@@ -48,4 +48,3 @@ We have tested all the cases we have given and we also make our own testcase as 
 4. Wrong input dependencies
 5. After the first make, we delete some files, and test whether the make will update the changes.
 6. Other tests to make sure our program has the same output as using make
-
