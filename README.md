@@ -21,7 +21,7 @@ We did all the algorithms and most of our coding work during our meeting
 
     Huilin did most of the coding work during our meeting and provided good ideas of debugging.
 
-## Porgram Syntax
+## Program Syntax
 
 *General usage
 
