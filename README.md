@@ -1,5 +1,5 @@
 
-# CSci4061 F2018 Assignment 1
+# CSci4061 F2018 MAKE
 * date: 10/03/2018
 * name: Guangyu Yan, Huilin Zhang, Ziqian Qiu
 
