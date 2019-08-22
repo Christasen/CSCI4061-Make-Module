@@ -4,7 +4,7 @@
 * name: Guangyu Yan, Huilin Zhang, Ziqian Qiu
 
 
-## Who did what on the program
+## Work Distribution
 
 We did all the algorithms and most of our coding work during our meeting
 
